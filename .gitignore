@@ -13,6 +13,9 @@ __pycache__/
 .vscode/
 .idea/
 
+# Environment
+.conda/
+
 # OS
 .DS_Store
 Thumbs.db
